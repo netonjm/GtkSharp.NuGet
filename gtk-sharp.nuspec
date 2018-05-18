@@ -16,9 +16,5 @@
         <copyright>Copyright 2018</copyright>
         <language>en-US</language>    
         <tags>mono dotnet gtk</tags>
-        <contentFiles>
-            <!-- config -->
-            <files include="any/any/*.config" buildAction="None" copyToOutput="true" flatten="true"  />
-        </contentFiles>
     </metadata>
 </package>
