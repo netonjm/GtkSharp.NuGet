@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package>
+    <metadata minClientVersion="3.3.0">
+        <id>GtkSharp</id>
+        <version>2.12.0.0</version>
+        <title>GtkSharp</title>
+        <authors>José Medrano</authors>
+        <owners>Microsoft</owners>
+        <licenseUrl>https://www.xamarin.com</licenseUrl>
+        <projectUrl>https://github.com/mono/gtk-sharp</projectUrl>
+        <iconUrl>https://www.xamarin.com/content/images/nuget/xamarin.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Gtk# is a .NET language binding for the GTK+ toolkit and assorted GNOME libraries. Gtk# is free software, licensed under the GNU LGPL.</description>
+        <summary>Gtk 2.12 C# Bindings.</summary>
+        <releaseNotes></releaseNotes>
+        <copyright>Copyright 2018</copyright>
+        <language>en-US</language>    
+        <tags>mono dotnet gtk</tags>
+        <contentFiles>
+            <!-- config -->
+            <files include="any/any/*.config" buildAction="None" copyToOutput="true" flatten="true"  />
+        </contentFiles>
+    </metadata>
+</package>
