@@ -2,30 +2,39 @@
   <ItemGroup>
     <None Include="$(MSBuildThisFileDirectory)atk-sharp.dll.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
     </None>
     <None Include="$(MSBuildThisFileDirectory)gdk-sharp.dll.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
     </None>
     <None Include="$(MSBuildThisFileDirectory)glade-sharp.dll.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
     </None>
     <None Include="$(MSBuildThisFileDirectory)glib-sharp.dll.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
     </None>
     <None Include="$(MSBuildThisFileDirectory)gtk-dotnet.dll.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
     </None>
     <None Include="$(MSBuildThisFileDirectory)gtk-sharp.dll.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
     </None>
     <None Include="$(MSBuildThisFileDirectory)Mono.Cairo.dll.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
     </None>
     <None Include="$(MSBuildThisFileDirectory)Mono.Posix.dll.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
     </None>
     <None Include="$(MSBuildThisFileDirectory)pango-sharp.dll.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
     </None>
   </ItemGroup>
    <ItemGroup>
